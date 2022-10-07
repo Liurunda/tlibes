@@ -1,3 +1,3 @@
 # 方法的局限
 
-No silver bullet.
+No silver bullet. aha.

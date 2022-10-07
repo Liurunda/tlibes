@@ -1,1 +1,24 @@
-site_name: My Docs
+site_name: TLIBEs
+
+theme:
+  name: material
+  palette:
+    primary: black
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - content.code.annotate
+
+nav: 
+  - 方法的局限: methods/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

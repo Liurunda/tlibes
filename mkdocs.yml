@@ -10,7 +10,9 @@ theme:
     - content.code.annotate
 
 nav: 
+  - 课咨委之始: beginning/index.md
   - 方法的局限: methods/index.md
+  - 专题梳理: topics/index.md
 
 markdown_extensions:
   - admonition

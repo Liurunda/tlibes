@@ -34,7 +34,7 @@
 
 文档的整合维护的负责人: 
 
-2022 - ????:  [刘润达](liurd22@mails.tsinghua.edu.cn) 
+2022 - ????:  [刘润达](mailto:liurd22@mails.tsinghua.edu.cn) 
 
 ### 本文档的写作计划
 

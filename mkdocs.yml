@@ -12,7 +12,9 @@ theme:
 nav: 
   - 课咨委之始: beginning/index.md
   - 方法的局限: methods/index.md
-  - 专题梳理: topics/index.md
+  - 专题梳理: 
+    - topics/index.md
+    - 课程改进共同体: topics/improve.md
 
 markdown_extensions:
   - admonition

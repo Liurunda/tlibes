@@ -10,7 +10,11 @@ theme:
     - content.code.annotate
 
 nav: 
-  - 案例库: cases/index.md
+  - 案例库: 
+    - cases/index.md
+    - 2021秋季系列调研: cases/survey2021A.md
+    - 2022春季操作系统课程调研: cases/OS2022S.md
+    - 2022春季网络原理后续课程梳理: cases/network2022S.md
   - 课咨委之始: beginning/index.md
   - 方法的局限: methods/index.md
   - 专题梳理: 
